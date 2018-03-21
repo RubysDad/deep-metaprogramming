@@ -1,4 +1,4 @@
-Ruby Metaprogramming concepts:
+Ruby Metaprogramming concepts: (in lib directory)
 
     Classes:
 
